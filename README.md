@@ -1,5 +1,4 @@
 ﻿# Banking-Website
-# Bankist-App
 This project is a simulation of a basic online banking application interface. 
 It demonstrates how users can interact with their accounts, perform various banking transactions, and view their financial history.
 
